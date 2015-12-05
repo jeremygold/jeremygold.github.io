@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a self proclaimed "Mad Inventor", driven by a love of making stuff, for the pure joy of learning new tricks and techniques, and trying to inspire others to do the same...
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
