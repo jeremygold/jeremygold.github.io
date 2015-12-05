@@ -7,7 +7,7 @@ So I'm building a Hexapod... I've been thinking about this for a loooong time (8
 
 Here's the design so far: 
 
-![Hexapod Design V1]({{ site.baseurl }}/images/HexapodV1.png)
+![Hexapod Design V1]({{ site.baseurl }}/images/hexapod-v1.png)
 
 Overall goals
 --------------
