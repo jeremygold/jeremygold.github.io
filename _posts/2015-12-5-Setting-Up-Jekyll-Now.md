@@ -15,4 +15,6 @@ Cheers,
 
 Jeremy
 
+P.S. This [Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is pretty handy...
+
 
