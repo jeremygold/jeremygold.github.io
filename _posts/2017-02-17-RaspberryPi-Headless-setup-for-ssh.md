@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raspberry PI Headless Setup for Headless operation
+title: How to set up a headless Raspberry PI Headlessly
 ---
 
 Just found a nice trick when setting up a Headless Raspberry PI to avoid scrambling around for an old keyboard, mouse, and HDMI cable, just to run raspi-config and enable ssh...
