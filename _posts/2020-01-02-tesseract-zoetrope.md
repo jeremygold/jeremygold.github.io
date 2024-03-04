@@ -8,7 +8,7 @@ image: zoetrope.jpg
 
 ## Summary
 
-A giant record player built into the wall of my house supporting a sequence of 3D printed tesseracts, rotating through the 4th dimension, with a synchronized strobe providing a zoetrope effect.
+An oversized record player built into the wall of my house supporting a sequence of 3D printed tesseracts, rotating through the 4th dimension, with a synchronized strobe providing a zoetrope effect.
 
 <div style="position:relative;padding-bottom:75%;">
     <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" 
