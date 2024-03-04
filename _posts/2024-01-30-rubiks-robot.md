@@ -8,14 +8,7 @@ image: rubiks-robot.jpg
 
 ## Summary
 
-A rubiks cube solving robot. 
-
-Thanks to DrVoHo for the design and the code
-
-* https://github.com/DrVoHo/Rubik_solver
-* https://www.thingiverse.com/thing:3826740.
-
-Not exactly a speed cuber (me or the robot), but somehow super satisfying to watch...
+A rubiks cube solving robot. Not exactly a speed cuber (me or the robot), but somehow super satisfying to watch...
 
 ## Timelapse video - The race is on!
 
@@ -38,3 +31,8 @@ Not exactly a speed cuber (me or the robot), but somehow super satisfying to wat
         allowfullscreen>
     </iframe>
 </div>
+
+Thanks to DrVoHo for the design and the code
+
+* https://github.com/DrVoHo/Rubik_solver
+* https://www.thingiverse.com/thing:3826740.
