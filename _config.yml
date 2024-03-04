@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # plugins:             [jekyll-paginate, jekyll-sitemap]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "My Mad Inventing Projects"
+title:		           "Mad Inventing Projects"
 description:	       "A random selection of works"
 author:              "Jeremy Gold"
 
