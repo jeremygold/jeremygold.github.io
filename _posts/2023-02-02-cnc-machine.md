@@ -12,8 +12,9 @@ So what do you do when you have an old [BFB-3000](https://www.coolthings.com/bfb
 
 Turn it into a CNC machine of course! - Very home grown, but working reasonably well. Not up to doing metal, 
 
-Onshape design is at [CNC Router](https://cad.onshape.com/documents/b2528a2fa2286cba36226e5a/w/5e70e261f4ed7b38ce0a73aa/e/acda24fa132ba25a14cc2229?renderMode=0&uiState=65e52f2cdd137268f0826bf2)
+Onshape design (primarily for the Z-axis assembly)is at [CNC Router](https://cad.onshape.com/documents/b2528a2fa2286cba36226e5a/w/5e70e261f4ed7b38ce0a73aa/e/acda24fa132ba25a14cc2229?renderMode=0&uiState=65e52f2cdd137268f0826bf2)
 
+![CNC Onshape](assets/img/cnc-onshape.jpg)
 
 ## Demo video (WARNING: LOUD!)
 
