@@ -2,7 +2,7 @@
 layout: post
 title: "Dragonfly"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [portfoli, metalwork-sculptures]
 image: dragonfly.jpg
 ---
 

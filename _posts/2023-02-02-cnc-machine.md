@@ -2,7 +2,7 @@
 layout: post
 title: "CNC Machine"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, favourites]
 image: cnc-machine.jpg
 ---
 

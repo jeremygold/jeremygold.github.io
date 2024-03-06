@@ -2,7 +2,7 @@
 layout: post
 title: "Steampunk - Optics - Maths"
 author: "Jeremy Gold"
-categories: portfolio
+categories: all
 image: steampunk-optics-maths.jpg
 ---
 

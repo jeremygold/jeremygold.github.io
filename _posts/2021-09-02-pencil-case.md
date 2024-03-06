@@ -2,7 +2,7 @@
 layout: post
 title: "Pencil case"
 author: "Jeremy Gold"
-categories: portfolio
+categories: all
 image: pencilcase.jpg
 ---
 

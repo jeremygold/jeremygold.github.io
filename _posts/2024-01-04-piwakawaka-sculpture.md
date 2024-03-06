@@ -2,7 +2,7 @@
 layout: post
 title: "Piwakawaka"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, metalwork-sculptures]
 image: piwakawaka.jpg
 ---
 

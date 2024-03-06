@@ -2,7 +2,7 @@
 layout: post
 title: "Rubik's Robot"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all,favourites]
 image: rubiks-robot.jpg
 ---
 

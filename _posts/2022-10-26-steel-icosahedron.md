@@ -2,7 +2,7 @@
 layout: post
 title: "Icosahedron Garden Sculpture"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, metalwork-sculptures]
 image: icosahedron.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Singing in the rain"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, metalwork-sculptures]
 image: singing-in-the-rain.jpg
 ---
 

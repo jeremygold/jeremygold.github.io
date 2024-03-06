@@ -2,7 +2,7 @@
 layout: post
 title: "Scorpion-bot"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, metalwork-sculptures]
 image: scorpion-bot.jpg
 ---
 

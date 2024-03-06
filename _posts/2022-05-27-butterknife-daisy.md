@@ -2,7 +2,7 @@
 layout: post
 title: "Butterknife Daisy"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, metalwork-sculptures]
 image: butterknife-daisy.jpg
 ---
 

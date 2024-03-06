@@ -2,7 +2,7 @@
 layout: post
 title: "Tesseract Zoetrope"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, favourites]
 image: zoetrope.jpg
 ---
 

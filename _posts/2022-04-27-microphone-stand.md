@@ -2,7 +2,7 @@
 layout: post
 title: "Microphone stand"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, metalwork-sculptures]
 image: microphone-stand.jpg
 ---
 

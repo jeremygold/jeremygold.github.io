@@ -2,7 +2,7 @@
 layout: post
 title: "The workshop"
 author: "Jeremy Gold"
-categories: portfolio
+categories: all
 image: workshop.jpg
 ---
 

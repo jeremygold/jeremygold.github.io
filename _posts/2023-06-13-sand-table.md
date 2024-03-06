@@ -2,7 +2,7 @@
 layout: post
 title: "Standing Desk Sand Table"
 author: "Jeremy Gold"
-categories: portfolio
+categories: [all, favourites]
 image: sandtable.jpg
 ---
 
