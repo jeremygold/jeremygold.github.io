@@ -19,7 +19,7 @@ Raspberry PI pico controls the strobe timing to generate different effects...
 <div style="position:relative;padding-bottom:75%;">
     <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" 
         width="100%" height="100%" 
-        src="https://youtu.be/jsIxkHlW9BA" 
+        src="https://www.youtube.com/embed/jsIxkHlW9BA" 
         frameborder="0" 
         allowfullscreen>
     </iframe>
