@@ -10,5 +10,5 @@ image: steampunk-optics-maths.jpg
 
 A pair of steampunk goggles I designed and built. My project randomizer came up with "Steampunk", "Optics", and "Maths", and this was the result.
 
-Mostly an exersize in experimenting with lathe work, and trying to paint / finish some 3D printed parts.
+Mostly an exercise in experimenting with lathe work, and trying to paint / finish some 3D printed parts.
 
